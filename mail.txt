@@ -1,0 +1,7 @@
+From: "Backup de Postgres" <fnaquiravargas@gmail.com>
+Subject: Resultado de Backups Cloud
+
+Querido Administrador,
+se han realizado con exito los backups solicitados.
+Se listan a continuacion todas las bases rescatadas y subidas a Cloud Storage:
+
